@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Life Expectancy Interactive Slideshow</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Life Expectancy Interactive Slideshow</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
-    <h1>Life Expectancy (1960–2020)</h1>
+  <div id="container">
+    <h1>Life Expectancy Over Time</h1>
+    <div id="visualization"></div>
+    <div id="annotation"></div>
     <div id="controls">
-        <button id="prevBtn">Previous</button>
-        <button id="nextBtn">Next</button>
+      <button id="prev" disabled>Previous</button>
+      <button id="next">Next</button>
     </div>
-    <p id="scene-text"></p>
-    <div id="chart"></div>
-    <div id="country-select-container" style="display:none;">
-        <label for="countrySelect">Choose a country:</label>
-        <select id="countrySelect"></select>
-    </div>
-
-    <script src="script.js"></script>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>

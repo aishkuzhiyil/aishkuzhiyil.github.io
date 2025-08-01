@@ -1,18 +1,50 @@
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 20px;
-}
-
-#controls {
-    margin-bottom: 20px;
-}
-
-#chart svg {
-    display: block;
-    margin: 0 auto;
-}
-
-#country-select-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    background: #f9f9f9;
+  }
+  
+  #container {
+    background: white;
+    padding: 1rem 2rem 2rem 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 8px #ccc;
+  }
+  
+  #visualization {
     margin-top: 20px;
-}
+  }
+  
+  #annotation {
+    margin-top: 12px;
+    font-size: 1.1rem;
+    background: #e7f3ff;
+    border-left: 4px solid #2196f3;
+    padding: 10px 15px;
+    border-radius: 4px;
+    min-height: 3em;
+  }
+  
+  #controls {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #2196f3;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    font-size: 1rem;
+    margin: 0 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #aaa;
+    cursor: default;
+  }
+  
