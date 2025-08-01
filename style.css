@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#controls {
+    margin-bottom: 20px;
+}
+
+#chart svg {
+    display: block;
+    margin: 0 auto;
+}
+
+#country-select-container {
+    margin-top: 20px;
+}
