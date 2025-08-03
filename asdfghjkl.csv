@@ -1,4 +1,100 @@
-Region Code,Region Name,Series Code,Series Name,Value,Year
+Country Code,Country Name,Series Code,Series Name,Value,Year
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),475.7448098,2000
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),488.1642876,2001
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),519.0544384,2002
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),583.0621459,2003
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),640.7259869,2004
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),679.7253692,2005
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),720.6031232,2006
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),788.8723869,2007
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),854.0389932,2008
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),863.466328,2009
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),900.1769017,2010
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),974.1274671,2011
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),982.0741499,2012
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),992.234653,2013
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1014.944203,2014
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),973.1539973,2015
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),990.8286891,2016
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1027.118651,2017
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1066.64776,2018
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1084.163977,2019
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1158.07093,2020
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1245.909858,2021
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1235.603151,2022
+WLD,World,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),..,2023
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",67.64972573,2000
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",67.94439843,2001
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",68.2305637,2002
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",68.51496107,2003
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",68.77025245,2004
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",69.11057582,2005
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",69.46811655,2006
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",69.80409787,2007
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",70.00347393,2008
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",70.37952511,2009
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",70.68184335,2010
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",70.96801349,2011
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.26375458,2012
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.53267021,2013
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.77554368,2014
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.96475451,2015
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.1848946,2016
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.36534478,2017
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.64361208,2018
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.86891031,2019
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.18222395,2020
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.21548417,2021
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.96901572,2022
+WLD,World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",73.32971628,2023
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),5496.486023,2000
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),5390.181691,2001
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),5525.02966,2002
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),6116.55508,2003
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),6804.78415,2004
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),7276.275612,2005
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),7786.763872,2006
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),8666.128891,2007
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),9403.728197,2008
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),8806.25101,2009
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),9530.010809,2010
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10471.53643,2011
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10570.75881,2012
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10744.62036,2013
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10911.80674,2014
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10175.40942,2015
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10221.36598,2016
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10765.26622,2017
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),11326.9339,2018
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),11376.82334,2019
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),10963.17564,2020
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),12418.56592,2021
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),12819.74484,2022
+WLD,World,NY.GDP.PCAP.CD,GDP per capita (current US$),13263.61955,2023
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",76.7,2000
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",74.1,2001
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",71.5,2002
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",68.6,2003
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",66.2,2004
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",63.3,2005
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",60.6,2006
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",58,2007
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",55.8,2008
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",54,2009
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",51.7,2010
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",50.6,2011
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",47.8,2012
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",46.1,2013
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",44.9,2014
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",43.7,2015
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",42.4,2016
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",41.3,2017
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",40.2,2018
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",39.5,2019
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",38.7,2020
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",38.2,2021
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",38.2,2022
+WLD,World,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",36.7,2023
 AFE,Africa Eastern and Southern,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),42.68641555,2000
 AFE,Africa Eastern and Southern,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),37.78677238,2001
 AFE,Africa Eastern and Southern,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),34.96710841,2002
@@ -479,6 +575,102 @@ EAS,East Asia & Pacific,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live bir
 EAS,East Asia & Pacific,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",14.9,2021
 EAS,East Asia & Pacific,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",14.7,2022
 EAS,East Asia & Pacific,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",14.5,2023
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),38.3870668,2000
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),39.51864774,2001
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),44.08123596,2002
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),50.33561489,2003
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),56.63970559,2004
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),65.02179741,2005
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),74.62180626,2006
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),89.25453753,2007
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),116.597181,2008
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),138.5213306,2009
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),160.376239,2010
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),200.3010943,2011
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),233.4987361,2012
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),263.8620012,2013
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),287.3999469,2014
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),307.2812475,2015
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),312.5786718,2016
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),342.7519727,2017
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),388.609816,2018
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),414.6093096,2019
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),446.4797023,2020
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),514.7283462,2021
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),510.485887,2022
+EAP,East Asia & Pacific (excluding high income),SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),..,2023
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",70.73570716,2000
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.07409239,2001
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.39674996,2002
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.80399563,2003
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",71.85880092,2004
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.39832664,2005
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.65187044,2006
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.99375366,2007
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",72.92413762,2008
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",73.46778781,2009
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",73.76163906,2010
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",73.98574532,2011
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",74.25978721,2012
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",74.48593238,2013
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",74.71945281,2014
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",74.95112438,2015
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.15591177,2016
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.23967149,2017
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.57828618,2018
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.76896903,2019
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.69763933,2020
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.27814184,2021
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.93254094,2022
+EAP,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",75.88068309,2023
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),961.3034342,2000
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1014.527215,2001
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1114.001781,2002
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1251.280119,2003
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1439.934645,2004
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1653.681435,2005
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1976.633901,2006
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2481.389526,2007
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),3117.833898,2008
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),3359.520093,2009
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),4057.868416,2010
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),4913.896214,2011
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),5434.827471,2012
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),5952.771112,2013
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),6373.651057,2014
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),6589.77384,2015
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),6683.183869,2016
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),7241.925338,2017
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),8045.944488,2018
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),8286.439675,2019
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),8391.368384,2020
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),9974.6364,2021
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),10106.87252,2022
+EAP,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),10125.76681,2023
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",42.17002419,2000
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",40.10706091,2001
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",37.76836997,2002
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",34.69410197,2003
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",33.4772071,2004
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",30.47705954,2005
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",28.62141615,2006
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",26.96723568,2007
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",26.36921334,2008
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",23.95453213,2009
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",22.7548891,2010
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",21.62731014,2011
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",20.25008095,2012
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",19.41016986,2013
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",18.31904848,2014
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",17.76459248,2015
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",16.76417464,2016
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",15.98385726,2017
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",16.00829668,2018
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",15.54414457,2019
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",15.81888375,2020
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",15.71742939,2021
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",15.60908301,2022
+EAP,East Asia & Pacific (excluding high income),SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",15.32154912,2023
 ECS,Europe & Central Asia,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),935.3746031,2000
 ECS,Europe & Central Asia,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),965.1901492,2001
 ECS,Europe & Central Asia,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),1089.586517,2002
@@ -1439,18 +1631,18 @@ MEA,"Middle East, North Africa, Afghanistan & Pakistan",EG.ELC.ACCS.ZS,Access to
 MEA,"Middle East, North Africa, Afghanistan & Pakistan",EG.ELC.ACCS.ZS,Access to electricity (% of population),96.41666906,2021
 MEA,"Middle East, North Africa, Afghanistan & Pakistan",EG.ELC.ACCS.ZS,Access to electricity (% of population),95.8637945,2022
 MEA,"Middle East, North Africa, Afghanistan & Pakistan",EG.ELC.ACCS.ZS,Access to electricity (% of population),96.42263674,2023
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2000
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2001
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2002
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2003
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2004
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2005
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2006
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2007
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2008
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2009
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2010
-NAC,"North America",EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2011
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2000
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2001
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2002
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2003
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2004
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2005
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2006
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2007
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2008
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2009
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2010
+NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2011
 NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2012
 NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2013
 NAC,North America,EG.ELC.ACCS.ZS,Access to electricity (% of population),100,2014

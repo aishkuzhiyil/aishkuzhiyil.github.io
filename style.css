@@ -1,50 +1,82 @@
 body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-    background: #f9f9f9;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 100px;
+  }
+  h1 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+  }
+
+  .tooltip {
+    position: absolute;
+    padding: 10px 10px;
+    border: 1px solid black;
+    pointer-events: none;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: white;
+  }
+
+  .legend {
+    font-size: 14px;
+  }
+  .legend-color {
+    width: 14px;
+    height: 14px;
+    margin-right: 6px;
+    border-radius: 7px;
+    display: inline-block;
+  } 
+  
+  .scene-btn {
+    font-size: 16px;
+    padding: 6px;
+    margin-right: 6px;
+    border: none;
+    background-color: #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 2px;
   }
   
-  #container {
-    background: white;
-    padding: 1rem 2rem 2rem 2rem;
-    border-radius: 8px;
-    box-shadow: 0 0 8px #ccc;
+  .scene-btn:hover {
+    background-color: #eee;
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
   }
   
-  #visualization {
-    margin-top: 20px;
+  /* .slider {
+    /* margin-bottom: 40px; */
+  /* } */ */
+
+  .legend-container {
+    border-style: solid;
+   border-color: #000;
+   border-width:medium;
+   border-radius: 8px;
+   padding: 5px;
   }
   
   #annotation {
-    margin-top: 12px;
-    font-size: 1.1rem;
-    background: #e7f3ff;
-    border-left: 4px solid #2196f3;
-    padding: 10px 15px;
-    border-radius: 4px;
-    min-height: 3em;
-  }
-  
-  #controls {
     margin-top: 20px;
-    text-align: center;
-  }
-  
-  button {
-    background-color: #2196f3;
-    border: none;
-    color: white;
-    padding: 8px 16px;
-    font-size: 1rem;
-    margin: 0 10px;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  
-  button:disabled {
-    background-color: #aaa;
-    cursor: default;
+    display: block;
+    visibility: visible;
+    color: black;
+    font-size: 18px;
+    border-style: solid;
+    border-radius: 9px;
+    border-color: black;
+    padding: 5px;
   }
   
